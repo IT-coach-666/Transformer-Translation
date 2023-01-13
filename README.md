@@ -1,7 +1,4 @@
-## A Transformer Framework Based Translation Task
-### 一个基于Transformer网络结构的文本翻译模型
-
-### 论文[Attention Is All You Need](https://arxiv.org/abs/1706.03762) 基于PyTorch的实现
+### 一个基于 Transformer 网络结构的文本翻译模型
 
 
 
@@ -13,8 +10,7 @@
 * pip install en_core_web_sm-3.0.0.tar.gz
 
 ## 2. 使用方法
-* STEP 1. 直接下载或克隆本项目：https://github.com/moon-hotel/TransformerTranslation
-* STEP 2. 可自定义修改配置文件`config.py`中的配置参数，也可以保持默认
+* 自定义修改配置文件`config.py`中的配置参数，也可以保持默认
 ### 2.1 训练
 直接执行如下命令即可进行模型训练：
 ```
